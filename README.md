@@ -1,6 +1,6 @@
 # 🚦 Semáforo com MicroPython
 
-Projeto básico de semáforo utilizando **MicroPython** com a **placa ESP32/ESP8266** e 3 LEDs (verde, amarelo e vermelho).
+Projeto básico de semáforo utilizando **MicroPython** com a **placa ESP32** e 3 LEDs (verde, amarelo e vermelho).
 
 O código simula o funcionamento de um semáforo, com tempos específicos para cada cor.
 
@@ -23,7 +23,7 @@ O código simula o funcionamento de um semáforo, com tempos específicos para c
 
 ## 🧰 Materiais usados
 
-- 1x Placa **ESP32** (ou ESP8266)
+- 1x Placa **ESP32**
 - 3x LEDs (Verde, Amarelo, Vermelho)
 - 3x Resistores (220Ω)
 - Jumpers
